@@ -99,14 +99,14 @@ repositories {
 ```
 Add the following dependency to your build.gradle file to use the latest version:
 ```groovy
-implementation 'com.github.AgustaRC.koap:koap:1.0.0'
+implementation 'com.github.AgustaRC.koap:koap:1.0.1'
 ```  
   
   
 ## Gson serialization
 To use Gson serializer, we need to add following dependency:
 ```grooby
-implementation "com.github.AgustaRC.koap:koap-gson-serializer:1.0.0"
+implementation "com.github.AgustaRC.koap:koap-gson-serializer:1.0.1"
 ```
 And specify GsonSerializer as Koap serializer:
 ```kotlin
