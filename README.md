@@ -4,6 +4,7 @@
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
 [![Build Status](https://travis-ci.org/AgustaRC/koap.svg?branch=master)](https://travis-ci.org/AgustaRC/koap)
 [![codebeat badge](https://codebeat.co/badges/a6a8ec9f-48eb-415d-bb74-6aa5891512ba)](https://codebeat.co/projects/github-com-agustarc-koap-master)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Koap-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7631)
 
 A Kotlin library that makes Android SharedPreferences easier to use.  
 You can use it as if you are using a typical data class. 
