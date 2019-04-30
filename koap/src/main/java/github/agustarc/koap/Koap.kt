@@ -10,7 +10,7 @@ object Koap {
     var isTestMode: Boolean = false
 
     /**
-     *  This cacheLoaded should be used to set serializer to use types that are not supported by SharedPreference.
+     *  This property should be used to set serializer to use types that are not supported by SharedPreference.
      */
     var serializer: Serializer? = null
 
